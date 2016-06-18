@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- LoginActivity API URLS -->
+    <item name="OAuth_Authorize" type="string">/login/oauth/authorize</item>
+
+    <!-- LoginActivity API Params -->
+    <item name="OAuth_Client_id" type="string">client_id</item>
+    <item name="OAuth_redirect_uri" type="string">redirect_uri</item>
+    <item name="OAuth_scope" type="string">scope</item>
+</resources>

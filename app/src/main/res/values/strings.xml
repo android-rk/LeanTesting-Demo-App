@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LeanTesting</string>
+    <string name="leantesting_client_id"></string>
+    <string name="leantesting_client_secret"></string>
+</resources>
